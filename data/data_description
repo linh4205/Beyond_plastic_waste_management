@@ -1,0 +1,4 @@
+waste_categories: The csv file shows different regions of the world (continents, USA, India, China, World), categorising their waste management in recycled, incinerated, mismanaged and landfilled in proportion to total regional waste from 2000 - 2019.
+plastic_production: The csv file shows the annual global plastic production from 1950 - 2019.
+gdp: The csv file shows the gdp obtained in differnt countries from 1960 to 2020.
+sdg_index: The csv file shows the different sdg index scores for countries from 2000 – 2022, we used the data from the sdg goal 4: education.
